@@ -17,9 +17,6 @@
     "url": "https://github.com/lon-yang/webpack-externals/issues"
   },
   "homepage": "https://github.com/lon-yang/webpack-externals#readme",
-  "devDependencies": {
-    "webpack": "^4.28.4"
-  },
   "dependencies": {
     "lodash": "^4.17.11"
   }

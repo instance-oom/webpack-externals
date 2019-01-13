@@ -1,5 +1,7 @@
 const NGExternals = require('./ng');
+const RXJSExternals = require('./rxjs');
 
 export {
-  NGExternals
+  NGExternals,
+  RXJSExternals
 };
